@@ -23,7 +23,6 @@
 <br />
 
 <p align="left"> <img src="https://raw.githubusercontent.com/rajowanrj/cf-stats/main/output/max_rating.svg" /></p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajowanrj&label=Profile%20views&color=0e75b6&style=flat" alt="rajowanrj" /> </p>
 
 <b>&#128200; Competitive Programming</b>
