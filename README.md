@@ -26,7 +26,9 @@
 <b>&#128200; Competitive Programming</b>
 <br />
 <p float="left">
+    <a href="https://codeforces.com/profile/RAJOWAN">
     <img height="230px" src="https://raw.githubusercontent.com/rajowanrj/cf-stats/main/output/light_card.svg" alt="Statistics"/>
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
