@@ -19,7 +19,7 @@
 <br />
 <br />
 <a href="https://codeforces.com/profile/RAJOWAN">
-     <img src="https://raw.githubusercontent.com/rajowanrj/cf-stats/main/output/max_rating.svg" />
+     <img src="https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=rajowanrj&label=Profile%20views&color=0e75b6&style=flat" alt="rajowanrj" />
 <br>
