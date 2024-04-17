@@ -1,12 +1,12 @@
-### Assalamualaikum 👋, This is Rajowan
+### Assalamualaikum 👋, This is Rajowan!
 ## I'm a Deep Learner, Problem Solver & Focused on Objectives!
 - 💡 Currently Learning **Data Structure & Algorithms**
 ### 📝 Professional Career Objectives :
-- 📝 2023 : Fundamentals of C and JAVA with Basic OOP InShaAllah! (Done☑️)
-- 📝 2024 : Solving 1000+ Problem in Online Platforms & Participate offline Regional Contest & Achive Typing speed ⌨️120+ wpm InShaAllah!
-- 📝 2025 : Achive CodeForces Pupil, CodeChef 3 Star, Solve 2000+ Problems InShaAllah!
-- 📝 2026 : Achive Specialist in CodeForces, Learn Software Development, Get Job InShaAllah!
-- 📝 2027 : Crack a Tech Giant & Backend Development InShaAllah!
+- 2023 : Fundamentals of C and JAVA with Basic OOP InShaAllah! (Done☑️)
+- 2024 : Solving 1000+ Problem in Online Platforms & Participate offline Regional Contest & Achive Typing speed ⌨️120+ wpm InShaAllah!
+- 2025 : Achive CodeForces Pupil, CodeChef 3 Star, Solve 2000+ Problems InShaAllah!
+- 2026 : Achive Specialist in CodeForces, Learn Software Development, Get Job InShaAllah!
+- 2027 : Crack a Tech Giant & Backend Development InShaAllah!
 
 ### Find Me:
 
