@@ -23,13 +23,12 @@
      <img src="https://raw.githubusercontent.com/rajowanrj/cf-stats/main/output/max_rating.svg" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=rajowanrj&label=Profile%20views&color=0e75b6&style=flat" alt="rajowanrj" />
-<br>
-<b>&#128200; Competitive Programming</b>
-<br />
+
+### &#128200; Competitive Programming
 <p float="left">
     <a href="https://codeforces.com/profile/RAJOWAN">
-    <img height="230px" src="https://raw.githubusercontent.com/rajowanrj/cf-stats/RajowanRJ-patch-1/output/light_card.svg" alt="Statistics"/>
-    </a>
+<img height="270" src="https://codeforces-readme-stats.vercel.app/api/card?username=RAJOWAN&theme=github_dark&force_username=true&border_color=404040" alt="Rajowan's Codeforces Stats"/>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
