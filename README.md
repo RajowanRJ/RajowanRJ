@@ -37,7 +37,7 @@
 
 
 <p>
-<img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c%2B%2B&logoColor=white">
+<img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white">
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=Java&logoColor=white">
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
