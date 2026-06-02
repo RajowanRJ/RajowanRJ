@@ -1,7 +1,7 @@
 
 ### ﷽ Assalamualaikum 👋, This is Rajowan!
-## I'm a Deep Learner, Problem Solver & Focused on Objectives!
-- 💡 Currently Learning **Data Structure & Algorithms**
+## Mobile Application Developer | Flutter & Firebase | Building Scalable & User-Centric Apps | CS Undergrad @ University of Rajshahi affiliate REC!
+- 💡 Currently Learning **AI Assistant Integration**
 ### 📝 Professional Career Objectives :
 - 2023 : Fundamentals of C and JAVA with Basic OOP InShaAllah! ☑️
 - 2024 : Solving 1000+ Problem in Online Platforms, Participate offline Regional Contest & Achive Typing speed ⌨️120+ wpm InShaAllah!
