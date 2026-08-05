@@ -1,4 +1,4 @@
-### ﷽ Assalamualaikum 👋, I'm Jaid!
+### ﷽ Assalamualaikum 👋, I'm Rajowan!
 
 **Mobile Application Developer | Flutter & Firebase | Expanding to iOS Ecosystem**
 
