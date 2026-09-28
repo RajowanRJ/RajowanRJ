@@ -1,6 +1,6 @@
-### ﷽ Assalamualaikum 👋, I'm Rajowan
+#### ﷽ Assalamualaikum 👋, I'm Rajowan
 
-**Software Engineering Undergrad | Specializing in Python/Django Backend | DSA (500+ Solved)**
+### Software Engineering Undergrad | Specializing in Python/Django Backend | DSA (500+ Solved)
 
 I’m a Computer Science & Engineering undergraduate (Semester 3-2) transitioning my rigorous Data Structures & Algorithms foundation (C/C++) into production-grade software engineering. 
 
