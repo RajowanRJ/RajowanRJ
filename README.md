@@ -47,10 +47,7 @@ While I am shifting heavily toward backend systems, my problem-solving muscles w
 <p>
 <a href="https://codeforces.com/profile/RAJOWAN">
   <img height="35" src="https://img.shields.io/badge/Codeforces-RAJOWAN-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-</a> &nbsp;
-<a href="https://www.hackerrank.com/profile/rajowanrj">
-  <img height="35" src="https://img.shields.io/badge/HackerRank-rajowanrj-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-</a> &nbsp;
+</br>
 <a href="https://leetcode.com/u/Rajowan/">
   <img height="35" src="https://img.shields.io/badge/LeetCode-Rajowan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
